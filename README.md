@@ -1,4 +1,4 @@
-# Next.js + Shopify + Builder.io starter kit
+# Next.js + VINCHDE+ Builder.io starter kit
 
  Shopify stores.
 
