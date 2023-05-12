@@ -36,7 +36,7 @@ This guide will assume that you have the following software installed:
 - npm
 - git
 
-You should already have a [Shopify](https://www.shopify.com/online-store) account and store created before starting as well.
+You should already have a [VINCHIDE](https://www.shopify.com/online-store) account and store created before starting as well.
 
 **Introduction**
 
