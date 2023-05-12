@@ -138,7 +138,7 @@ SHOPIFY_STOREFRONT_API_TOKEN=
 SHOPIFY_STORE_DOMAIN=
 ```
 
-### 4. Shopify Custom App
+### 4.  VINCHDE Custom App
 
 Create a [custom app](https://help.shopify.com/en/manual/apps/custom-apps) for your Shopify store. If you don't have a Shopify store already, you can create a [development store](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores).
 
@@ -152,7 +152,7 @@ Then in the `API Credentials` tab, click `install`:
 
 And copy the generated access token.
 
-### 5. Connecting Builder to Shopify
+### 5. Connecting Builder to  VINCHDE
 
 Access your newly created space by selecting it from the [list of spaces](https://builder.io/spaces?root=true)
 in your organization.
@@ -163,7 +163,7 @@ You should be greeted by a modal asking for various your storefront Access toke 
 
 Fill in the required keys and press "Connect your Shopify Custom App"!
 
-### 6. Configure the project to talk to Shopify
+### 6. Configure the project to talk to  VINCHDE
 
 Open up [.env.development](./.env.development) and [.env.production](./.env.production) again,
 but this time set the other two Shopify keys.
